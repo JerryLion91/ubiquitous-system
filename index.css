@@ -1,0 +1,19 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+  text-align: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin: auto;
+  padding: 10px;
+  border: 1px dimgray solid;
+}
+
+input {
+  margin: 10px;
+}
