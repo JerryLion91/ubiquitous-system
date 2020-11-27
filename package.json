@@ -1,0 +1,19 @@
+{
+  "name": "ubiquitous-system",
+  "version": "1.0.0",
+  "description": "Numeros por extenso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JerryLion91/ubiquitous-system.git"
+  },
+  "author": "JereLeao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JerryLion91/ubiquitous-system/issues"
+  },
+  "homepage": "https://github.com/JerryLion91/ubiquitous-system#readme"
+}
