@@ -4,7 +4,8 @@
   "description": "Numeros por extenso",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JerryLion91/ubiquitous-system/issues"
   },
-  "homepage": "https://github.com/JerryLion91/ubiquitous-system#readme"
+  "homepage": "https://github.com/JerryLion91/ubiquitous-system#readme",
+  "devDependencies": {
+    "live-server": "1.2.1"
+  }
 }
